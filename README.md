@@ -1,4 +1,4 @@
-# [Nombre del Proyecto: MultiJuegos]
+# MultiJuegos
 
 Este proyecto es un **conjunto de juegos que comparten el mismo tablero**, desarrollado como parte de las prácticas finales del **primer año** en el Grado Superior. Su principal objetivo era poner en práctica conceptos avanzados de **Java** con un enfoque en **Programación Orientada a Objetos (OOP)** y la interacción entre clases.
 
